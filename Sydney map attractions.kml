@@ -1,0 +1,2572 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Sydney map attractions</name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Harbour</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2FSydney-attractions%2FWhite-Bay-Cruise-Terminal-WBCT-tours-tickets%2Fd357-a10079%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=0f45eb8ece0f9b498&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=257842&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bondi to Coogee Beach Coastal Walk</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2FSydney-attractions%2FBondi-to-Coogee-Beach-Coastal-Walk-tours-tickets%2Fd357-a18278%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=15950ae90d1bb7c40&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=2534313&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Arden Street Coogee Beach, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2572122,-33.9191807,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Street Art of Newtown</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FMade-In-Sydney-Shopping-Experience-Morning-Walking-Tour%2Fd357-7018P10%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=883f2c1754999c76d&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13743289&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Newtown, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.1785003,-33.8978149,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sauce Brewing Co</name>				<ExtendedData>
+									</ExtendedData>
+								<address>1a Mitchell St, Marrickville, Sydney, New South Wales 2204 Australia </address>
+				<Point>
+					<coordinates>151.1631248,-33.907559,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Bay Run</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FThe-3-Bridges-Harley-Tour-see-the-main-iconic-bridges-of-Sydney-on-a-Harley%2Fd357-132589P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=702e53468798c88fe&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=12839844&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Henley Marine Drive Around the shores of the Iron Cove Bay, Rozelle, Sydney, New South Wales 2039 Australia </address>
+				<Point>
+					<coordinates>151.145215,-33.8649933,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>OceanFit</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Queen Elizabeth Drive, Bondi, New South Wales 2026 Australia </address>
+				<Point>
+					<coordinates>151.2749392,-33.891701,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Stockade Brew Co</name>				<ExtendedData>
+									</ExtendedData>
+								<address>25 Cadogan St, Marrickville, Sydney, New South Wales 2204 Australia </address>
+				<Point>
+					<coordinates>151.1660599,-33.9104904,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Depot Theatre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>142 Addison Rd, Marrickville, Sydney, New South Wales 2204 Australia </address>
+				<Point>
+					<coordinates>151.1610753,-33.9022195,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Marrickville War Memorial</name>				<ExtendedData>
+									</ExtendedData>
+								<address>303 Marrickville Road, Marrickville Corner Petersham Road, Marrickville, Sydney, New South Wales 2204 Australia </address>
+				<Point>
+					<coordinates>151.1541463,-33.9091112,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cremorne Point to Mosman Bay Walk</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Start at Cremorne Ferry Wharf, Milson Road, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2309802,-33.8476071,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Newsagency</name>				<ExtendedData>
+									</ExtendedData>
+								<address>74-76 Pyrmont Bridge Rd Above Wayward&apos;s Brewery, Annandale, Sydney, New South Wales 2038 Australia </address>
+				<Point>
+					<coordinates>151.17493,-33.885808,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Nirwana Beauty &amp; Spa</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBalinese-Massage%2Fd357-170218P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=e070c90af0eebefc5&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=17677966&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>L 10 451 New South Head Rd, Double Bay, Sydney, New South Wales 2028 Australia </address>
+				<Point>
+					<coordinates>151.2439238,-33.8776541,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>West Head Lookout</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2FSydney-attractions%2FWest-Head-Lookout-tours-tickets%2Fd357-a18777%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=4ee55ca955d996c3a&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=3159790&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>West Head Rd Ku-Ring-Gai Chase National Park, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2683786,-33.6116061,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Frances Keevil Gallery</name>				<ExtendedData>
+									</ExtendedData>
+								<address>28-34 Cross St, Sydney, New South Wales 2028 Australia </address>
+				<Point>
+					<coordinates>151.2424401,-33.8763768,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>ATTY Gallery</name>				<ExtendedData>
+									</ExtendedData>
+								<address>27 Playfair St The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.208256,-33.8584113,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>BridgeClimb Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>3, Cumberland Street, The Rocks The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2077107,-33.8574531,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Hayes Theatre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>19 Greenknowe Ave Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.227252,-33.871894,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Brett Whiteley Studio</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-6-Hour-Private-Tour%2Fd357-15507P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=9d837320bdf984f98&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=556276&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>2 Raper St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2146728,-33.8887407,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Port Jackson</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2FSydney-attractions%2FSydney-Harbour-tours-tickets%2Fd357-a284%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=16d08a36fd42747df&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=257271&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney Harbour, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2488616,-33.8462182,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Australian Museum of Magical Arts</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FGeneral-Admission-Australian-Museum-Of-Magical-Arts%2Fd357-72326P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=660f0e85cbccec790&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13388968&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>91 Riley St Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.214957,-33.874924,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Murugan Temple</name>				<ExtendedData>
+									</ExtendedData>
+								<address>217 Great Western Hwy Mays Hill, Sydney, New South Wales 2145 Australia </address>
+				<Point>
+					<coordinates>150.984061,-33.8199135,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Lisgar Gardens - Hornsby</name>				<ExtendedData>
+									</ExtendedData>
+								<address>23 Lisgar Rd, Hornsby, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.0902359,-33.7049571,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cremorne Reserve</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Milson Road, Sydney, New South Wales 2090 Australia </address>
+				<Point>
+					<coordinates>151.2274271,-33.8428713,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pylon Lookout Climb</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Cahill Expressway, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2078592,-33.8569973,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Orange Grove Market</name>				<ExtendedData>
+									</ExtendedData>
+								<address>corner of Balmain Rd  AND  Perry St, Sydney, New South Wales 2049 Australia </address>
+				<Point>
+					<coordinates>151.1596682,-33.8715095,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Karlangu Aboriginal Art Centre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>47 York St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2056453,-33.8668609,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Muogamarra Nature Reserve</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FHawkesbury-River-Kayak-Discovery%2Fd357-142198P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=e2076a83726ffa20b&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4888680&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Old Pacific Highway, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.1312594,-33.7334086,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Green Square Library</name>				<ExtendedData>
+									</ExtendedData>
+								<address>355 Botany Road, Zetland, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.2034543,-33.9064595,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>South Head</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FWhales-Under-Sail-Whale-Watching-Sydney%2Fd357-137648P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=ea90f2df899d1486f&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=10750784&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>South Head, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2804258,-33.8332187,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Ian Potter Children&apos;s Wild Play Garden</name>				<ExtendedData>
+									</ExtendedData>
+								<address>The Grand Drive Centennial Parklands, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2304826,-33.8964626,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Giba Park</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Point Street Pyrmont, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1932051,-33.86596,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bungan Beach</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wulugul Walk</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Near Bourke Street Bakery, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2014704,-33.8645812,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>King&apos;s Cross Saturday Farmers Market</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Macleay St Fitzroy Gardens, Potts Point, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2256067,-33.8728085,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>University of New South Wales</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2052 Australia </address>
+				<Point>
+					<coordinates>151.229916,-33.916869,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kings Cross Theatre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>244-248 William St Level 2, Kings Cross Hotel, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2220415,-33.874945,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Genesia Theatre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>420 Kent St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2052128,-33.8721263,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mark Hanham Art Gallery</name>				<ExtendedData>
+									</ExtendedData>
+								<address>164 Devonshire St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2103011,-33.8872177,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>ARA Darling Quarter Theatre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>1-25 Harbour St Darling Quarter, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2026579,-33.8752099,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Squidinki</name>				<ExtendedData>
+									</ExtendedData>
+								<address>21 Nurses Walk The Rocks, Shop 1, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2081077,-33.859893,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Greek Festival of Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Various locations, Sydney, New South Wales 2004 Australia </address>
+				<Point>
+					<coordinates>151.206425,-33.87351,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Georges Head Memorial Park</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FManly-and-Sydneys-Northern-Beaches-Private-Tour%2Fd357-186752P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=0c342f18f55da3db2&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=17433876&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Mosman, Sydney, New South Wales 2088 Australia </address>
+				<Point>
+					<coordinates>151.2393885,-33.8303776,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Museum of Freemasonry</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Civic Tower 66 Goulburn St Level 3, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2079924,-33.8779687,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Hazhaz</name>				<ExtendedData>
+									</ExtendedData>
+								<address>95 Oxford St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2145856,-33.8790794,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Korean Cultural Centre Australia</name>				<ExtendedData>
+									</ExtendedData>
+								<address>255 Elizabeth St Ground Floor, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2092035,-33.8757124,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Michael Mobbs&apos; Sustainable House</name>				<ExtendedData>
+									</ExtendedData>
+								<address>58 Myrtle St, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.1960952,-33.8869599,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Spectacle Island</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2F5-day-Kayak-Adventure-down-Hawkesbury-River%2Fd357-142198P7%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=8e1b65cd38fb87e43&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=258195&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Paddington Uniting Church</name>				<ExtendedData>
+									</ExtendedData>
+								<address>395 Oxford St, Paddington, Sydney, New South Wales 2021 Australia </address>
+				<Point>
+					<coordinates>151.2297406,-33.887412,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Collaroy to Manly Coastal Walk</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Collaroy Beach, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.3002445,-33.7315007,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kerrie Lowe Gallery</name>				<ExtendedData>
+									</ExtendedData>
+								<address>49-51 King Street Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1861561,-33.8922593,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>All Art &amp; Mirrors Installation Services</name>				<ExtendedData>
+									</ExtendedData>
+								<address>172-190 Riley St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2142273,-33.8793874,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Badger and Fox Gallery</name>				<ExtendedData>
+									</ExtendedData>
+								<address>201 Albion St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2163823,-33.884102,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Westpac Bank</name>				<ExtendedData>
+									</ExtendedData>
+								<address>341 George St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2066105,-33.8671518,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>POP on the Rocks</name>				<ExtendedData>
+									</ExtendedData>
+								<address>The Rocks, NSW 4 Atherden St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2083321,-33.857746,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>East Sydney Community and Arts Centre</name>				<ExtendedData>
+									</ExtendedData>
+								<address>34-40 Burton St Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2161416,-33.8783509,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Art2Muse</name>				<ExtendedData>
+									</ExtendedData>
+								<address>357 New South Head Road, Double Bay Double Bay, Sydney, New South Wales 2028 Australia </address>
+				<Point>
+					<coordinates>151.2421759,-33.8787776,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wayside Chapel - Wayside Walks</name>				<ExtendedData>
+									</ExtendedData>
+								<address>29 Hughes St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2244286,-33.8716632,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Eryldene Historic House and Garden</name>				<ExtendedData>
+									</ExtendedData>
+								<address>17 McIntosh St Gordon, Sydney, New South Wales 2072 Australia </address>
+				<Point>
+					<coordinates>151.1575,-33.7579,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sir Richard Bourke</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Macquarie Street  AND  Shakespeare Place Outside State Library of New South Wales Lat: -33.866065 Long: 151.212904, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.212784,-33.866754,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gourmet Getaway Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FChef-Led-Hunter-Valley-Gourmet-Food-and-Wine-Day-Trip-from-Sydney%2Fd357-10981P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=f8a93af223fad7990&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7171789&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Coast Warriors</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBlue-Mountains%2FBlue-Mountains-Day-Trip-The-backpackers-option%2Fd5402-41231P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=c7a615fbbd0be7061&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=10726819&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>814 George Street, Haymarket, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2036746,-33.882657,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ocean Extreme</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Whale-Watching-by-Speed-Boat%2Fd357-8099P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=9b51dc2bc9b4feddb&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4549721&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney Harbour, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2009,-33.87488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kangarrific Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FHunter-Valley-Food-and-Wine-Tour-from-Sydney%2Fd357-43666P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=5cc883af278f49e69&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=2097585&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>11 Rawson Pl Nsw, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2053721,-33.8817381,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bailey&apos;s Sydney Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FPrivate-Sydney-City-Tour-The-Key-Attractions%2Fd357-59102P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=886c490a37d392dce&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=3571665&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2100 Australia </address>
+				<Point>
+					<coordinates>151.2627078,-33.7645979,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Perfect Day Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FWalking-with-Wombats-Day-Tour-Budderoo-National-Park-and-Kangaroo-Valley%2Fd357-120137P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=654053501d8e6be6c&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=15873891&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>22 Railway Colonnade Drive, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2058139,-33.8822367,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Cipher Room</name>				<ExtendedData>
+									</ExtendedData>
+								<address>640 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1811267,-33.9053805,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Real Sydney Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSecret-Sydney-Hidden-Beaches-and-Gardens%2Fd357-74399P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=5a3180e9acb09ff4f&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1725012&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2026 Australia </address>
+				<Point>
+					<coordinates>151.2714535,-33.8922511,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>BlueBananas Electric Bike Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Australian Surf Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2F14-days-surf-camp%2Fd357-23218P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=35c9171f105af879b&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=2562423&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2233585,-33.8710844,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Volle Jewellery</name>				<ExtendedData>
+									</ExtendedData>
+								<address>149 York St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2063065,-33.8725551,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Paddlepirates</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FKayak-To-Goat-Island-At-The-Heart-of-Sydney-Harbour%2Fd357-105793P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=e1b3f18f15ea8bf91&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13493169&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>123 Ferry Rd Blackwattle Bay, Glebe, Sydney, New South Wales 2037 Australia </address>
+				<Point>
+					<coordinates>151.1880024,-33.873582,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Journey Walks</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FConvict-Colony-Walking-Tour-The-Bizarre-British-Experiment-Behind-Sydney%2Fd357-48144P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=77c054b1c86278e85&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=10822849&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Blue Mountains Eco Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-Twilight-Wildlife-Tour%2Fd357-115065P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=91db7a9fd9e3f5e6d&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=5580041&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2118 Australia </address>
+				<Point>
+					<coordinates>151.0413133,-33.7799114,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Anderson&apos;s Tours - Blue Mountains Day Tour</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FAll-Inclusive-Blue-Mountains-Small-Group-Day-Trip-from-Sydney%2Fd357-22584P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=b193a0fa125b6a6df&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1573194&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2146 Australia </address>
+				<Point>
+					<coordinates>150.9569167,-33.7915266,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Eagle Rock Adventures</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FRainforest-Canyoning-Adventure%2Fd357-15916P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=1aa9128e02927ad12&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4340042&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Social Escape Rooms</name>				<ExtendedData>
+									</ExtendedData>
+								<address>62 Wyndham St Level 2, Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.1987003,-33.8972085,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Your Sydney Guide</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-Private-Tour%2Fd357-15507P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=c3954dbda4fb62c61&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7265359&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Rocks Walking Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FThe-Rocks-Walking-Tour-the-Original-Guided-Walking-Tour-of-The-Rocks%2Fd357-24095P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=e173de48286c53a97&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1113298&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 5 - Clocktower Square Cnr Argyle  AND  Harrington Streets, The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20777,-33.85918,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sensational Sydney Cruises Pty Ltd</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSmall-Group-Sydney-Harbor-Morning-Tea-Cruise%2Fd357-5288P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=3941bb8763c08a120&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7974193&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Commissioners Steps, Circular Quay Located in front of the Museum of Contemporary Art, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2097641,-33.8597584,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Architecture Walks</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Corner Phillip and Bridge Streets, Museum of Sydney, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2114429,-33.8636005,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>My Detour™ - Day Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Harbour-National-Park-Walking-Tour%2Fd357-5677MWD%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=92bc660ede78d307a&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=2272653&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Barefoot Downunder</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FFigure-8-Pools-Coastal-Adventure-and-Hike-Tour-from-Sydney%2Fd357-19908P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=beb4034574dc2088d&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=8646991&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>812 George Street, Haymarket Pickup location, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2009,-33.87488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Prancing Horse Drive Experiences - Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>7 Hickson Rd The Park Hyatt Sydney, The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2093523,-33.8557587,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>OzPaddle</name>				<ExtendedData>
+									</ExtendedData>
+								<address>1c Mrs Macquaries Rd The Domain, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2217476,-33.8634677,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Blue Mountains Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-Tour-from-Sydney%2Fd357-21966P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=b5aea393cc24cdf4d&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4410904&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>520 Oxford St Bondi, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2505804,-33.8918142,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Welcome Walking Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manly Ocean Adventures</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Whale-Watching-by-Speed-Boat%2Fd357-8099P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=9b51dc2bc9b4feddb&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=3618748&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>140 East Esplanade, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2847764,-33.7994257,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Next Level Escape</name>				<ExtendedData>
+									</ExtendedData>
+								<address>23 O&apos;Connell St Lower Ground, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2092297,-33.8651428,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dave&apos;s Pub Walks</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FThe-Rocks-Pub-Walk%2Fd357-30548P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=c8551a23b65288c14&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=9460050&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Blue Ribbon Day Tours - Blue Mountain Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-SMALL-groups-day-tour-from-Sydney-with-Wildlife-Park-and-Cruise%2Fd357-75947P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=8747b6fc609284aec&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4294615&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Castlereagh St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2091708,-33.8731615,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Pub Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FHistoric-Pub-Tour-of-The-Rocks%2Fd357-57530P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=7050eb67a0407d7ee&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4172294&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>25 George St The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.208328,-33.857059,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Thunder Jet Boat Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2F30-Min-Thunder-Twist-Ride%2Fd357-23388P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=9f8e047068f9a379b&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4116429&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Circular Quay East - Jetty 1, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2127505,-33.8594016,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Culture Scouts</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FCulture-Scouts-Walking-Tours%2Fd357-32789P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=6ce6b67d97898bd05&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=8761080&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Shelby&apos;s Sidecar Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>140 George St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2091458,-33.8604233,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Dive Safari</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Guided-Shore-Dive%2Fd357-57865P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=4c112d6bb4afc96d9&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=5961536&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>1371-1373 Botany Road, Sydney, New South Wales 2019 Australia </address>
+				<Point>
+					<coordinates>151.1960049,-33.9432019,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>SignaturePhoto Photography Courses</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Goulburn Street, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2092545,-33.878315,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Harbour Boat Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSmall-Group-Harbour-Boat-Tour-with-beach-stops-and-waterside-restaurant-lunch%2Fd357-53663P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=ac336a51a32aa0815&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1998244&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Private Tour Guide</name>				<ExtendedData>
+									</ExtendedData>
+								<address>30 Pitt St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2093802,-33.8628744,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Flight Experience Sydney - Flight Simulator</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Level 3 Harbourside Shopping Centre, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2057136,-33.8692163,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sea Sydney Harbour</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSunset-and-Sparkle-Sydney-Harbour-Cruise%2Fd357-63794P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=504b45d7ba50ed08c&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7895762&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>37 Bank St Pyrmont, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1902944,-33.8708334,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Virtual Room: Virtual Reality Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FVirtual-Room-The-Ultimate-Team-Based-Virtual-Reality-Experience%2Fd357-62344P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=474f28ab44a95aba8&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=12970140&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>393 George St Level 5, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2067672,-33.8696619,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Taste Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FTaste-of-Sydney-Barangaroo-and-the-Rocks%2Fd357-29632P10%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=fad02b9388a64844b&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4941133&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2142 Australia </address>
+				<Point>
+					<coordinates>151.006385,-33.8323277,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Behind the Scenes at Sydney Fish Market</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Bank St Pyrmont, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.1908825,-33.870692,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wine Country Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>42 Thorn Street, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.0661272,-33.7281869,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Second Telling Missions</name>				<ExtendedData>
+									</ExtendedData>
+								<address>397 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1777595,-33.8997661,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Photography Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMelbourne%2FSydney-Photography-Tours%2Fd384-26572P7%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=66a9eb94cfc6b2ea7&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1059102&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Kendall Lane The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2084778,-33.8591044,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>SCG Tour Experience</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBehind-The-Scenes-Sydney-Cricket-Ground-SCG-Guided-Walking-Tour%2Fd357-49671P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=15055560a216e2d03&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=9976311&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>I&apos;m Free Walking Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney Town Hall 483 George St Town Hall Square, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2061157,-33.8731575,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Virtual Reality Rooms Sydney - VR Escape Rooms Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FAustralias-First-Team-Based-Virtual-Reality-Escape-Games%2Fd357-68491P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=ecd7b6f5fbfd0104e&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=12937942&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Level 1, 484 Kent Street, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2055542,-33.8745911,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Big Night Out Pub Crawl</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBig-Night-Out-Pub-Crawl%2Fd357-136537P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=91d0a6f28b7526eb2&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13784062&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>469 Kent St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2049043,-33.8730132,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Heritage Fleet</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydneys-Tall-Ship-Sailing-Adventure-on-James-Craig%2Fd357-5815SHF%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=f59399b9e226f0f5e&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=10213557&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>58 Pirrama Rd Wharf 7, Pyrmont, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1980521,-33.8675364,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Happy Coach Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>412 Pitt St Sydney, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2073975,-33.8787964,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Free Tours Sydney - Walking &amp; Bus Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>1A Prince Albert Rd Archibald Fountain at Hyde Park, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.211785,-33.8709052,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jet Flight Simulator Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FAirliner-737-Flight-Simulator-Experience%2Fd357-65508P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=2f47e11d84703873a&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=3760808&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>U 8 45-51 Huntley St Alexandria, Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.191884,-33.908766,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Blue Sky Helicopters</name>				<ExtendedData>
+									</ExtendedData>
+								<address>462 Ross Smith Ave, Sydney, New South Wales 2020 Australia </address>
+				<Point>
+					<coordinates>151.1909243,-33.9411333,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Opal Minded</name>				<ExtendedData>
+									</ExtendedData>
+								<address>55a George St The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2087539,-33.8581112,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Blue Diamond Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-All-Inclusive-Tour-Max-16-People-in-a-Luxury-Mercedes-Sprinter%2Fd357-6698P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=289817fa81ac1a2ed&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1745257&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>30 Pitt St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2093802,-33.8628744,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Country Trails Private Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Suite 1, 1st Floor 44 Bankstown City Plza, Bankstown NSW Sydney CBD Hotels, Sydney, New South Wales 2049 Australia </address>
+				<Point>
+					<coordinates>151.0325579,-33.9186637,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Beautiful Tours Australia</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2030 Australia </address>
+				<Point>
+					<coordinates>151.2772841,-33.8579067,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Gentleman Magician&apos;s Magical Soirees</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FThe-Gentleman-Magicians-Magical-Soirees%2Fd357-35493P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=919f6e00f17c4e67c&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=9997371&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>93 Macquarie Street Sir Stamford at Circular Quay, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2126715,-33.8622826,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Harbour Kayaks</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Middle-Harbour-Kayaking-Tour-from-the-Spit%2Fd357-16150P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=a7c2e6564eb2c83f1&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=2296340&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>81 Parriwi Rd Smiths Boat Shed  Spit Bridge, Mosman, New South Wales 2088 Australia </address>
+				<Point>
+					<coordinates>151.246368,-33.804287,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Altmann + Cherny - Australian Opals</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Ground Floor, 18 Pitt Street, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2093268,-33.862131,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Peek Tours Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSmall-Group-Sydney-City-Walking-Tour%2Fd357-8723P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=060ea1ccf0b09756c&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1886429&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney Customs House 31 Alfred St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2108531,-33.8621961,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dave&apos;s Brewery Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Beer-and-Brewery-Tour%2Fd357-6912BEER%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=9e6180774c8bf73c7&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=6536716&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>26 Foveaux St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2098571,-33.8838579,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Go Whale Watching Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Darling Harbour, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2009,-33.87488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bonza Bike Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Bike-Tours%2Fd357-2952SYD%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=0301538368409c5f1&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1017705&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Reynolds Cottage 30 Harrington St The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2080551,-33.8593989,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>ShuttleMate Airport Transfers &amp; Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bike Buffs - Sydney Bicycle Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Daily Meeting Point: The Village Green Opposite The Garrison Church, CNR Argyle and Lower Fort STS , The Rocks The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2056453,-33.8584673,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Emu Trekkers</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-Day-Hike-to-Help-Kids%2Fd357-59234P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=55c77225f1807760f&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=12911620&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Oz Whale Watching</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Whale-Watching-Cruise-Including-Lunch-or-Breakfast%2Fd357-5951OWW%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=3ee2b07f00173b3f5&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=3369701&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>37 Bank St Pyrmont, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1902944,-33.8708334,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>LuxCar</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-South-Wales%2FSydney-Airport-Premium-Arrival-Transfer%2Fd120-9363P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=19cdf39e1cb861def&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=8638715&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>24 Amelia St, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.1237308,-33.792021,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Life&apos;s An Adventure</name>				<ExtendedData>
+									</ExtendedData>
+								<address>423 Narabang Way, Belrose NSW, Sydney, New South Wales 2085 Australia </address>
+				<Point>
+					<coordinates>151.210138,-33.7054389,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Outback</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FKu-ring-gai-Chase-National-Park-Day-Trip-from-Sydney%2Fd357-7046WILDERNESS%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=f22064ccd6e89936f&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7273913&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gourmet Safaris</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>EcoTreasures</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FManly-Snorkeling-Tour-and-Nature-Walk%2Fd357-9051SNORKEL%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=727c20ba46a4dcbc2&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1972337&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2108 Australia </address>
+				<Point>
+					<coordinates>151.2976932,-33.6298875,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Private Guided Tours - Day Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>28 Crystal Street Waterloo, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.2130218,-33.8991879,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Urban Adventures</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Crimes-and-Passions-Walking-Tour-of-Kings-Cross%2Fd357-7018SYDK%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=532fa1893eaaffaa3&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1101336&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 31 7 Playfair St The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2078562,-33.8587025,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Picture Me Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FGrand-Pacific-Drive-from-Sydney%2Fd357-13341P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=76d3f38c7cdc50d79&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7762316&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney Harbour, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2009,-33.87488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Zepher Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-South-Wales%2FHunter-Valley-Wine-Tour-with-Gourmet-Lunch-and-Cheese-Chocolate-Craft-Beer-and-Distillery-Tastings%2Fd120-6764P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=e6806dc0fe9a0d7b7&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=4546661&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Great Escapes - Blue Mountains Day Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Intro Travel</name>				<ExtendedData>
+									</ExtendedData>
+								<address>L 14 22 Market St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.205003,-33.8706423,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Sundancer</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-New-Years-Eve-Cruise%2Fd357-180946P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=076a7c8d6f517d5ce&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1740840&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>U 1 380 Victoria Pl, Drummoyne, Sydney, New South Wales 2047 Australia </address>
+				<Point>
+					<coordinates>151.1453305,-33.8441126,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Tastes Of The Hunter Wine Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FHunter-Valley%2FHunter-Valley-Wine-Tour-from-the-Hunter-with-Wine-Craft-Beer-Cheese-Chocolate%2Fd30973-47676P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=e743c9aa79c81f7a6&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=12094191&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>PaniQ Room Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>13 Cambridge St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2073525,-33.8594315,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Daily Sydney Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FPrivate-Tour-Sydney-South-Coast-and-Highlands%2Fd357-106783P9%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=40e51b4d3030c008b&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13392451&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2066 Australia </address>
+				<Point>
+					<coordinates>151.1694511,-33.8126017,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Helitours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Harbour-Tour-by-Helicopter%2Fd357-3293SYDHARBOUR%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=aa0285ccf2f08d836&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=1860710&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>472 Ross Smith Ave Sydney Airport, Sydney, New South Wales 2020 Australia </address>
+				<Point>
+					<coordinates>151.1752764,-33.9399228,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dive Centre Manly</name>				<ExtendedData>
+									</ExtendedData>
+								<address>10 Belgrave St, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2852026,-33.7973742,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mission Escape Pitt St</name>				<ExtendedData>
+									</ExtendedData>
+								<address>332 Pitt St Level 2, Suite 202, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2081331,-33.8761109,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cloud 9 Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Highlights-Half-Day-Tour-Private-Tour%2Fd357-89292P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=a800461524a3b7295&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=6692031&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Wildlife Tours - Day Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Harbour Escapes</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Rose Bay Marina 594 New South Head Rd, Sydney, New South Wales 2029 Australia </address>
+				<Point>
+					<coordinates>151.2548253,-33.8707786,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Diamond Tours - Luxury Personalised Day Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FDiamond-Tours%2Fd357-45249P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=3e3b81e0f03075a92&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=11811228&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>30 Pitt St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2093802,-33.8628744,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pilgrim Sailing</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FTwilight-Yacht-Racing-on-Sydney-Harbour%2Fd357-16478P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=29dab3b97c7595799&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7158345&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Expedition Sydney - Escape Rooms</name>				<ExtendedData>
+									</ExtendedData>
+								<address>11A Cope Street Redfern NSW, Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.2007264,-33.8928208,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Troll Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FThe-3-Bridges-Harley-Tour-see-the-main-iconic-bridges-of-Sydney-on-a-Harley%2Fd357-132589P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=702e53468798c88fe&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=5783554&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1548847,-33.8779521,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wild Ride Australia</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBondi-and-Sydney-Sights-Trike-Tour-15hrs%2Fd357-119457P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=ccfd137c7471290c8&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=8296273&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manly Surf Guide</name>				<ExtendedData>
+									</ExtendedData>
+								<address>278 Sydenham Rd Brookvale, Sydney, New South Wales 2100 Australia </address>
+				<Point>
+					<coordinates>151.2741845,-33.7644589,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Terrific Tours Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Private Day Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FUltimate-Blue-Mountains-Private-Day-Tour-Experience%2Fd357-46933P7%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=16dbd94797ceb37ef&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=11872832&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>44 Waratah Street Rushcutters Bay, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2275204,-33.873666,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Go Beyond Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydneys-Northern-Beaches-and-Ku-ring-gai-National-Park-Tour%2Fd357-30891P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=3db88f7fc0b3e2aaf&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=9719549&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2100 Australia </address>
+				<Point>
+					<coordinates>151.2627078,-33.7645979,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Aperture Club</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Street-Art-Photography-Tour%2Fd357-10737P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=b513dd6bdbddcde10&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=6426549&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>55A Albert St, Leichhardt, Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1495671,-33.888566,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydneyficant</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Limousine Line</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Room Eight Escape Rooms</name>				<ExtendedData>
+									</ExtendedData>
+								<address>2B The Corso, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2848855,-33.7992105,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Australian Connection Travel Company (ACTC)</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Underwater Scooter Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FUnderwater-Scooter-Tours%2Fd357-15755P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=0a6a0b1a8b2998efb&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=6563472&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2036 Australia </address>
+				<Point>
+					<coordinates>151.2393885,-33.9735997,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ucruise Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2036 Australia </address>
+				<Point>
+					<coordinates>151.2393885,-33.9735997,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wildlife Tours Australia</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FHunter-Valley-Wine-Vodka-Liqueur-and-Chocolate-Day-Tour-from-Sydney%2Fd357-6121P15%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=f4e1d902f732316a6&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13544184&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Prive</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FHunter-Valley-VIP-Wine-Tour-Including-Private-Sommelier-And-Michelin-Star-Lunch%2Fd357-30621P7%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=156bfd4a029fdd7a6&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=10156435&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Tower 1 100 Barangaroo Ave Leve 24 T3, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.201659,-33.864518,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Baxter Inn</name>				<ExtendedData>
+									</ExtendedData>
+								<address>152-156 Clarence St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2056116,-33.869667,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Planetdwellers</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2131584,-33.8825595,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Runaway Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FNew-South-Wales%2FPrivate-Sydney-Half-Day-Sightseeing-Tour-Including-Sydney-Opera-House-Harbour-Bridge-and-Bondi-Beach%2Fd120-14172P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=5cb4dce71344a497f&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=3849620&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>16 Bourke Rd, Alexandria, Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.2006823,-33.9066359,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Autopia Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FFrom-Sydney-Sunset-Blue-Mountains-Wilderness-and-Wildlife-Tour-Without-the-Crowds%2Fd357-6770P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=82ef5a64cea661267&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=14901687&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>814 George St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2036746,-33.882657,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manly Sailing</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Ground Floor Manly Wharf East Esplanade, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2844766,-33.7999704,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Local Travel Planner</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FWildlife-Waterfalls-and-Wine-Departing-Sydney%2Fd357-68142P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=f2969fdcd3f998630&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=14024187&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Boomers Bike Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Harbour-Discovery-Tour%2Fd357-103160P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=a66d92c8fb19715c2&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=15192219&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>169 William St Chard Stairs, cnr William St and Forbes St, Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2189845,-33.8749744,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mia Cucina</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>WATSSUP - Watsons Bay Stand Up Paddling</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FStand-Up-Paddle-on-Sydney-Harbour-from-Watsons-Bay%2Fd357-60401P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=443a654a1703e0d4c&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=6105904&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Beachfront of Robertson Park, Watsons Bay, Sydney, New South Wales 2030 Australia </address>
+				<Point>
+					<coordinates>151.281928,-33.843,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Coast Walks</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2230 Australia </address>
+				<Point>
+					<coordinates>151.1461455,-34.0621862,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>UDU - Understand Down Under: Sydney Night &amp; Day Experiences</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 1300 Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Via Travel</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Click Walk Learn Photography Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Black Eagle Escapes</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FCruise-The-Sydney-Coastline-2-Hour-Motorcycle-Tour%2Fd357-68422P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=9c379f8d674945cba&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13506249&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Sydney Connection</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FDarlinghurst-Dining-Walk%2Fd357-136533P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=6ce5ee4be4ca968bb&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=3956818&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2233585,-33.8710844,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Frontier Photographic Safaris</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-Custom-Private-Charter%2Fd357-45650P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=f463b3e35468c2ca0&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=5513114&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2088 Australia </address>
+				<Point>
+					<coordinates>151.2393885,-33.8303776,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kadoo Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Just Sydney Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Spit Junction, Mosman, New South Wales 2088 Australia </address>
+				<Point>
+					<coordinates>151.2406296,-33.824333,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Splendour Tailored Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FPrivate-Bondi-to-Coogee-Beach-Coastal-Walk-Including-Surf-Lesson-and-Aquabumps-Art-Gallery%2Fd357-20997P8%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=50c4f0e9991d2ee2b&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=9873780&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>AussieYou Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FDiscover-Sydneys-Best-Kept-Secrets%2Fd357-161916P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=22837f17a8ae73bd7&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=17580103&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Seagrave House 810 George St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2048257,-33.8818389,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Australian Architecture Association - Sydney Walks &amp; Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2131584,-33.8825595,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Luxury Cruise</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FPrivate-Sydney-Harbour-Deluxe-Sunset-Cruise-Including-Gourmet-Hamper%2Fd357-72109P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=0fd8964e81f8f08c3&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13395899&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>1 Balls Head Dr, Sydney, New South Wales 2060 Australia </address>
+				<Point>
+					<coordinates>151.1947555,-33.8454718,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Eastcoast Sailing</name>				<ExtendedData>
+									</ExtendedData>
+								<address>U 4 50-58 Upper Pitt St Kirribilli NSW, Sydney, New South Wales 2061 Australia </address>
+				<Point>
+					<coordinates>151.2150481,-33.8481837,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Fantastic Race Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FFantastic-Race-Sydney%2Fd357-50875P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=415c437310ad9192f&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=12281423&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Central Train Station, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2069512,-33.8831733,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Harbour Days Sailing Experience - Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Harbour-Luxury-Sailing-Trip-including-Lunch%2Fd357-3166SYDHARBOURSAIL%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=c616a20cac3007671&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=2613063&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Smart Cruiser Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>U 7 3 Elizabeth Bay Cres, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2307324,-33.8724958,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ozia Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Suite No 158 144 Mountain Street Ultimo, Sydney, New South Wales 2007 Australia </address>
+				<Point>
+					<coordinates>151.196962,-33.8836904,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Patrick&apos;s Friendly Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2133 Australia </address>
+				<Point>
+					<coordinates>151.1082813,-33.8967345,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>MANIAX Axe Throwing - Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>75 Mary St Suite 201, St Peters, Sydney, New South Wales 2044 Australia </address>
+				<Point>
+					<coordinates>151.172911,-33.913065,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>V.I.P. Water Taxis</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Circular Quay, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2126457,-33.8611374,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Harbour Walking Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Watsons Bay, Sydney, New South Wales 2030 Australia </address>
+				<Point>
+					<coordinates>151.2816573,-33.8398183,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Secret Food Tours Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSecret-Food-Tours-Sydney%2Fd357-7812P86%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=aedf68e02b3ab1a81&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=16734520&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>M1 Oxford Street Paddington, Sydney, New South Wales 2021 Australia </address>
+				<Point>
+					<coordinates>151.2267403,-33.8852889,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Chix Surf School</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Warriewood, Pittwater, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.30093,-33.69404,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Urban Caterpillar</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBOHO-BLITZ-Sydney-weekend-markets-street-art-cool-bars-and-foodie-precincts%2Fd357-90057P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=4ba237f40272a6938&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=15514193&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>21 Enmore Rd NEWTOWN Unit Four Zero Eight, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1771455,-33.8980068,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Boat Adventures</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Circular Quay Eastern Pontoon, Sydney, New South Wales 2047 Australia </address>
+				<Point>
+					<coordinates>151.2126274,-33.8601209,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Djb Photography Walks Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Private-Night-Photography-Walking-Tour%2Fd357-22554P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=7bcab875a6d985466&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7350747&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>84 George St, Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.2088653,-33.8573009,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pterodactyl Helicopters</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Harbour-Helicopter-Tour%2Fd357-146591P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=5e790f100c4e2e2e3&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13307228&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>73 Tower Rd Bankstown Airport, Sydney, New South Wales 2200 Australia </address>
+				<Point>
+					<coordinates>150.9976624,-33.9245926,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kotahi Tourism</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FBatemans-Bay%2FConjola-Tours%2Fd37748-123972P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=ac6dff43f6e7c9be0&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=6681856&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20901,-33.85985,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Sidecar</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Victoria Street Potts Point, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2230928,-33.8705565,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>BikeRoundOz</name>				<ExtendedData>
+									</ExtendedData>
+								<address>183 Parramatta Rd, Annandale, Sydney, New South Wales 2038 Australia </address>
+				<Point>
+					<coordinates>151.1647561,-33.8879343,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney HeliCharter</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Hangar 537 Ross Smith Avenue, Mascot, Sydney, New South Wales 2020 Australia </address>
+				<Point>
+					<coordinates>151.1911502,-33.940961,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Annawombat Bike Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Corner Prince Albert Road and College Street, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2129706,-33.8704585,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Scenic SUP</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sirus Cove  Gibsons Beach Mosman  Watsons Bay, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2401442,-33.8376689,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Blue Reef Fishing Charters</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Thames Street Ferry Wharf, Balmain, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.186356,-33.854717,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Day by Day Charters - Private Trips</name>				<ExtendedData>
+									</ExtendedData>
+								<address>137 Bayswater Rd Rushcutters Bay, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.227992,-33.8764687,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Follow That Bird</name>				<ExtendedData>
+									</ExtendedData>
+								<address>359 Central Road Avalon Beach, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.3195039,-33.6297533,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Joes Mountain Bike Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FJoes-mountain-Bike-Tours-will-take-you-on-unique-mountain-bike-experience%2Fd357-161488P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=a0721a11bce04e7d5&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=6653135&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>52 West Esplande Manly, Sydney, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2830339,-33.798552,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Expedition Dive</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dodgy Detours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2206 Australia </address>
+				<Point>
+					<coordinates>151.125756,-33.9267511,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Let It Ride Sydney Shuttle</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rockfish Catamaran Charters</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.8708464,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>LuxGolf Australia</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FLuxGolf-is%2Fd357-32534P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=a3fc69b2f7adb1a5d&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=10054777&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mission Escape George St</name>				<ExtendedData>
+									</ExtendedData>
+								<address>724 George St Suite 502, HSBC Building, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2058274,-33.8788843,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Zest for Birds Private Day Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bubs Taxi</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bits of Australia</name>				<ExtendedData>
+									</ExtendedData>
+								<address>308 - 310 Darling St Upstairs in Suite 1 of the Balmain Mall, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.180204,-33.857376,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manly Whale Watching</name>				<ExtendedData>
+									</ExtendedData>
+								<address>140 East Esplanade, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2847764,-33.7994257,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Photo Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1942171,-33.8687895,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Aboriginal Day Tour from Sydney</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FBlue-Mountains-Tour-from-Sydney%2Fd357-21966P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=b5aea393cc24cdf4d&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13119191&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Southern Cross 4wd Safaris</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FGlow-Worm-Tunnels-and-the-Lost-City-Day-Trip-from-Sydney%2Fd357-14303P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=ea38a7a2050f58e15&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=7222432&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>12 Pinnacle Way, Sydney, New South Wales 2768 Australia </address>
+				<Point>
+					<coordinates>150.9359612,-33.7340996,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Flagship Cruises - Boat Charters</name>				<ExtendedData>
+									</ExtendedData>
+								<address>30 The Promenade King Street Wharf, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2018488,-33.8687158,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Trike Trips</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydneys-Six-Beaches-Trike-Tour%2Fd357-43433P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=c01637da02ffe33d1&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=13968340&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Runaway Max</name>				<ExtendedData>
+									</ExtendedData>
+								<address>16 Bourke Rd, Alexandria, Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.2006823,-33.9066359,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Helicopters</name>				<ExtendedData>
+									</ExtendedData>
+								<address>25 Wentworth St, Sydney, New South Wales 2142 Australia </address>
+				<Point>
+					<coordinates>151.0243939,-33.8300728,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Nimble Tours</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FRoyal-National-Park-Full-Day-Tour%2Fd357-137441P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=375b18addf813acf2&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=15519277&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Pindari Avenue Mosman Pindari Ave Mosman, Sydney, New South Wales 2088 Australia </address>
+				<Point>
+					<coordinates>151.239971,-33.8113671,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Speed Boat Adventures</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FSydney-Speed-Boat-Adventures%2Fd357-5257P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=e2430bb4717e554c2&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=16814721&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cosmos Entertainment Walking Tours</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Eternity Playhouse</name>				<ExtendedData>
+									</ExtendedData>
+								<address>39 Burton St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2160585,-33.8787482,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Natural Wanders Sea Kayak Adventures</name>				<ExtendedData>
+									</ExtendedData>
+								<address>45 Wharf Road, Sydney, New South Wales 2004 Australia </address>
+				<Point>
+					<coordinates>151.1840644,-33.8501794,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>We Are Observers</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Studio 3, 25 Wellington Street Chippendale, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.2010639,-33.8866398,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>DUX Collection Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>23 Playfair St The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2082935,-33.8583156,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Urban Legends Tour Co</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FExplore-Sydney-Like-a-Local-on-a-Small-Group-Day-Tour%2Fd357-59578P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=802e6927616906e65&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=12941293&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>11140 Lennox St Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1780947,-33.8959457,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cork &amp; Chroma Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>55 Holt St Shop 1, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2090603,-33.8862328,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Krazy Koala Pub Crawl</name>				<ExtendedData>
+												<Data name='booking/url'>
+								<value>https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FSydney%2FKrazy-Koala-Pub-Crawl%2Fd357-136526P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&amp;partnerKey=1&amp;urlKey=38e638b20a515bccf&amp;logme=true&amp;uidparam=refid&amp;attrc=true&amp;Provider=Viator&amp;area=TOP&amp;slot=1&amp;cnt=1&amp;geo=17157638&amp;clt=TD&amp;from=api&amp;nt=true</value>
+							</Data>
+									</ExtendedData>
+								<address>469 Kent Street, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2049043,-33.8730132,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>IEC Oceania</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Sydney, New South Wales 2068 Australia </address>
+				<Point>
+					<coordinates>151.20733,-33.7992003,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Above and Beyond Boating</name>				<ExtendedData>
+									</ExtendedData>
+								<address>16 Mitala St Royal Prince Alfred Yacht Club, Sydney, New South Wales 2106 Australia </address>
+				<Point>
+					<coordinates>151.3053673,-33.6566488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Nature Care Ayurveda</name>				<ExtendedData>
+									</ExtendedData>
+								<address>486 Parramatta Rd, Petersham, Sydney, New South Wales 2049 Australia </address>
+				<Point>
+					<coordinates>151.1577296,-33.8884846,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sydney Photographic Workshops</name>				<ExtendedData>
+									</ExtendedData>
+								<address>7 Mitchell Rd, Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.1951959,-33.8979483,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Walking Sydney</name>				<ExtendedData>
+									</ExtendedData>
+								<address>Margaret Street Wynyard Park, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2060075,-33.866053,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rob&apos;s Tour</name>				<ExtendedData>
+									</ExtendedData>
+								<address>29 Hughes St, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2244286,-33.8716632,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Aroca Thai Massage</name>				<ExtendedData>
+									</ExtendedData>
+								<address>477 Harris St Ground Floor, Ultimo, Sydney, New South Wales 2007 Australia </address>
+				<Point>
+					<coordinates>151.1978143,-33.8768758,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>

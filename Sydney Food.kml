@@ -1,0 +1,3553 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Sydney Food</name>
+		<description>http://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fmapprod2.environment.nsw.gov.au%2Farcgis1041%2Frest%2Fservices%2FUHGC%2FUHGC%2FMapServer&amp;source=sd | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bon Vin Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9360 0534</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12546941-Reviews-Bon_Vin_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1082 Stanley Street Darlinghurst NSW 2010 Enter via Stanley Lane, Crown Street End, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2159627,-33.8758738,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Joseph Hyde</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 481 601 232</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13125023-Reviews-Joseph_Hyde-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>34 Llankelly Pl Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2244239,-33.872654,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>34Bia</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9008 8025</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11773850-Reviews-34Bia-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>34B Redfern St Redfern, Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.207172,-33.8930002,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Farmhouse Kings Cross</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 448 413 791</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4791952-Reviews-Farmhouse_Kings_Cross-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 4 40 Bayswater Rd, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.224821,-33.8749782,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Parsons Bar and Kitchen</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8540 6320</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d7687330-Reviews-Parsons_Bar_and_Kitchen-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>3 Kellett St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2239618,-33.8744253,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>monte restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9568 5377</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g815420-d11880071-Reviews-Monte_restaurant-Leichhardt_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>256 Norton St, Leichhardt, Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1560369,-33.8782379,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Raita Noda Chef&apos;s Kitchen</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8093 9807</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d5958196-Reviews-Raita_Noda_Chef_s_Kitchen-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Suite1, 222 Riley Street Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2140008,-33.8804359,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>bibo Wine Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9362 4680</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552126-d10160908-Reviews-Bibo_Wine_Bar-Woollahra_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>7 Bay St Double Bay, Sydney, New South Wales 2028 Australia </address>
+				<Point>
+					<coordinates>151.2416971,-33.8782294,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>House Bar and Bistrot</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 450 633 892</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13807606-Reviews-House_Bar_and_Bistrot-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>62 Kellett St, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2246794,-33.874238,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kindness Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9331 5578</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10387473-Reviews-Kindness_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>248 Palmer Street Shop 6, Republic 2 Court Yard, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.216791,-33.878136,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Suzie Q Coffee &amp; Records</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9332 2739</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4792145-Reviews-Suzie_Q_Coffee_Records-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>118 Hutchinson St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2173312,-33.8855444,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bang Tang</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8542 0133</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d7348787-Reviews-Bang_Tang-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 145 Victoria St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2224545,-33.8724331,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bellingen Gelato</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8095 8188</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552115-d5985983-Reviews-Bellingen_Gelato-Rozelle_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>688 Darling St, Rozelle, Sydney, New South Wales 2039 Australia </address>
+				<Point>
+					<coordinates>151.169684,-33.864231,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Platform 818</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9217 6708</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17342229-Reviews-Platform_818-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>818 George Street, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.2030365,-33.8842154,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gelato Blue</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9519 0933</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d3862612-Reviews-Gelato_Blue-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>318 King Street, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.1793327,-33.8973328,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Enya</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9360 2342</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8608445-Reviews-Enya-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>58A Bayswater Road, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2257553,-33.8758486,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Papa Gedes Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9299 5671</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d5489946-Reviews-Papa_Gedes_Bar-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>348 Kent St Down the Laneway, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2048769,-33.8698515,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Little Evie Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>96999848</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12407253-Reviews-Little_Evie_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>688 Bourke St Redfern, Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.2144106,-33.8927284,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Room 10</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d2649777-Reviews-Room_10-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>10 Llankelly Place Potts Point, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2245398,-33.8723676,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Chapter E</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 7900 9972</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10148267-Reviews-Chapter_E-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>201 Darlinghurst Road, Sydney, New South Wales NSW 2010 Australia </address>
+				<Point>
+					<coordinates>151.2212661,-33.8761411,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ciccone &amp; Sons Gelateria</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10029879-Reviews-Ciccone_Sons_Gelateria-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>195 Regent Street Redfern, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.199538,-33.8948017,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Le Coq Healthy Rotisserie</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9818 4333</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552115-d13289606-Reviews-Le_Coq_Healthy_Rotisserie-Rozelle_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>758 Darling St, Rozelle, Sydney, New South Wales 2039 Australia </address>
+				<Point>
+					<coordinates>151.1676075,-33.8655917,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Injoy Indian Delights</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8065 9139</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d9607706-Reviews-Injoy_Indian_Delights-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>464 Cleveland Street Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2135075,-33.8914389,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sog</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8958 2588</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g947591-d10292179-Reviews-Sog-Abbotsford_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>559 Great North Rd, Abbotsford, Sydney, New South Wales 2046 Australia </address>
+				<Point>
+					<coordinates>151.1280201,-33.8477195,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Drop Espresso &amp; Juice Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8386 6230</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g1120009-d5286090-Reviews-The_Drop_Espresso_Juice_Bar-Annandale_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>14 Booth St, Annandale, Sydney, New South Wales 2038 Australia </address>
+				<Point>
+					<coordinates>151.1732735,-33.882543,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Chapter Five Espresso</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4791562-Reviews-Chapter_Five_Espresso-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>U 2 115 Lawson St, Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.1982464,-33.891573,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Luke’s Kitchen</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9002 5346</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13804999-Reviews-Luke_s_Kitchen-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>8 Danks St, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.210175,-33.8974442,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kiyo</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9518 8886</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d9728754-Reviews-Kiyo-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>48 Harris St Pyrmont, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1923902,-33.8666712,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Little Turtle Thai Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>6189642188</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14925838-Reviews-Little_Turtle_Thai_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>10-14 Stanmore Rd Enmore, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1703924,-33.8995567,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Either Or</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9557 7790</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d10635703-Reviews-Either_Or-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>512 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1792956,-33.9021591,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Burrow Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 450 466 674</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d9462194-Reviews-Burrow_Bar-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>312 George St De Mestre Place, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2075153,-33.86603,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Arthur</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 468 991 088</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15279010-Reviews-Arthur-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>544 Bourke St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2154579,-33.8889987,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Diwine Sydney</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8354 1086</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d7703049-Reviews-Diwine_Sydney-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>248 Palmer St Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2168922,-33.8783136,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ragamuffin</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g815420-d3642582-Reviews-Ragamuffin-Leichhardt_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>157 Norton St, Leichhardt, Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1570695,-33.8814085,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Forage Sydney</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 413 518 713</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552103-d5520460-Reviews-Forage_Sydney-Manly_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Manly Whrf, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2837724,-33.80046,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mabasa</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9555 6621</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552083-d4775874-Reviews-Mabasa-Balmain_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>390 Darling St, Balmain, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.1755627,-33.856206,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>6 Head 1788</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8629 8866</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16854011-Reviews-6_Head_1788-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>7-27 Circular Qy W The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2091906,-33.8569483,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Takumi</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9281 7200</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4798152-Reviews-Takumi-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>2 Quay St Level 3, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2032232,-33.8801676,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Maeda Japanese Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>83541653</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552126-d13413752-Reviews-Maeda_Japanese_Restaurant-Woollahra_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 2A Heeley St, Sydney, New South Wales 2021 Australia </address>
+				<Point>
+					<coordinates>151.2283904,-33.8825352,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Punjabi Fusion Sydney</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9241 1440</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16882050-Reviews-Punjabi_Fusion_Sydney-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Observatory Tower 168 Kent St Observatory Tower, Shop 6  AND  7, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2044015,-33.8621776,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bare Naked Bowls</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15015272-Reviews-Bare_Naked_Bowls-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>259 Crown St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2148659,-33.8800964,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>gaku Robata grill</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9380 2145</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14783636-Reviews-Gaku_Robata_grill-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 132 Darlinghurst Rd, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2204213,-33.8784314,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Harris On Harris</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9660 6472</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d6914825-Reviews-Harris_On_Harris-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 148 313 Harris St, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1959897,-33.8738253,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bloodhound Espresso</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10026224-Reviews-Bloodhound_Espresso-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>230 Palmer St Shop 1, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2167776,-33.8774422,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Deluca Coffee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9695 7679</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d5308599-Reviews-Deluca_Coffee-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1631 Botany Road, Sydney, New South Wales 2019 Australia </address>
+				<Point>
+					<coordinates>151.2042178,-33.9540536,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Little Beirutee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9746 5719</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g4212764-d13864989-Reviews-Little_Beirutee-North_Strathfield_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>139 Concord Rd, North Strathfield, Sydney, New South Wales 2137 Australia </address>
+				<Point>
+					<coordinates>151.0929471,-33.8599493,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Orwells Coffee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9326 9914</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13342429-Reviews-Orwells_Coffee-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 4 29 Orwell St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2243375,-33.8723924,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Linda&apos;s on King</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8068 1589</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d13368238-Reviews-Linda_s_on_King-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>508 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.179277,-33.9021022,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pizza Deli</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8381 3333</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11869047-Reviews-Pizza_Deli-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>356 - 368 George St Shop 1, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.2033682,-33.9030679,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manny&apos;s Pizza Diner</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9698 3526</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17209936-Reviews-Manny_s_Pizza_Diner-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>66-70 Regent St Chippendale, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2017365,-33.8877988,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Reformatory</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 422 011 565</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8448837-Reviews-The_Reformatory-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>17-51 Foveaux St Hop 7b 17-51, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2100489,-33.8842566,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Penny Fours</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9572 8550</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g815420-d5086266-Reviews-Penny_Fours-Leichhardt_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>141 Norton St, Leichhardt, Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1571093,-33.8817358,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cafe Nudge</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14914337-Reviews-Cafe_Nudge-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>181 Riley St Shop 3, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2139071,-33.8788847,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Francois Artisan Baker</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8403 4014</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11547101-Reviews-Francois_Artisan_Baker-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>91 Bondi Rd, Sydney, New South Wales 2026 Australia </address>
+				<Point>
+					<coordinates>151.2613641,-33.8937479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>O&apos;Uchi</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9299 3237</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12444767-Reviews-O_Uchi-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>80 Clarence St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2052356,-33.8673752,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Fleetwood Macchiato</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9557 9291</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4735567-Reviews-Fleetwood_Macchiato-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>43 Erskineville Rd, Sydney, New South Wales 2043 Australia </address>
+				<Point>
+					<coordinates>151.1828132,-33.8993606,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Fishbowl - Manly</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 416 161 479</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552103-d13173245-Reviews-Fishbowl_Manly-Manly_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>02C Darley Rd, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.286183,-33.798793,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Speed Bar Espresso</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9264 4668</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10250150-Reviews-Speed_Bar_Espresso-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 1 27 Park St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.208802,-33.8735457,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Glider Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 410 992 354</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12917487-Reviews-Glider_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>197 Victoria St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2221751,-33.8737128,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Greek Door</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 456 191 233</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552083-d17206427-Reviews-Greek_Door-Balmain_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>191 Darling Street, Balmain, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.185635,-33.858153,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>1892 Espresso &amp; Wine Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9555 9964</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552115-d15829057-Reviews-1892_Espresso_Wine_Bar-Rozelle_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>679 Darling St, Rozelle, Sydney, New South Wales 2039 Australia </address>
+				<Point>
+					<coordinates>151.1696218,-33.863937,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Due Passi</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9712 0430</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g947591-d13535888-Reviews-Due_Passi-Abbotsford_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>563 Great North Rd, Abbotsford, Sydney, New South Wales 2046 Australia </address>
+				<Point>
+					<coordinates>151.1280201,-33.8475996,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Crudo Espresso Wine Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9299 7371</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11719545-Reviews-Crudo_Espresso_Wine_Bar-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>215 Clarence St Suite 1, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2052264,-33.8701773,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cafe Yucca</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d9562202-Reviews-Cafe_Yucca-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1a Elizabeth Bay Rd Shop 1, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2255289,-33.8731396,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Drugstore</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g2686215-d3899530-Reviews-The_Drugstore-Summer_Hill_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>140 Smith St, Summer Hill, Sydney, New South Wales 2130 Australia </address>
+				<Point>
+					<coordinates>151.1375377,-33.8919516,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Fable Coffee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 431 094 021</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13385668-Reviews-Fable_Coffee-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>128 Darlinghurst Rd Shop 1, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2203982,-33.8784121,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ivy Cafe &amp; Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8542 6749</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552103-d10734937-Reviews-Ivy_Cafe_Restaurant-Manly_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>26 Darley Rd, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2874319,-33.8004486,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>O Superfood</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8065 8486</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15026910-Reviews-O_Superfood-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>310-330 Oxford St Shop 6, Sydney, New South Wales 2022 Australia </address>
+				<Point>
+					<coordinates>151.2456519,-33.8910044,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>SOUL Dining</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8593 4957</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15752769-Reviews-SOUL_Dining-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>204 Devonshire St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2113484,-33.887584,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Royal Copenhagen</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9977 8767</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552103-d12920437-Reviews-Royal_Copenhagen-Manly_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>106 The Corso, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2879561,-33.7974952,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Joe&apos;s Table</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>083857110</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12728086-Reviews-Joe_s_Table-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>128 Kings Lane Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2170159,-33.8779625,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Cook Room</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8385 1011</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552103-d15048422-Reviews-The_Cook_Room-Manly_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>549-53 N Steyne, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2874186,-33.7962103,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Old Bakery Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 497 090 237</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3741475-d7717622-Reviews-The_Old_Bakery_Cafe-Stanmore_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 92-96 Percival Road, Stanmore, Sydney, New South Wales 2048 Australia </address>
+				<Point>
+					<coordinates>151.1642628,-33.8925922,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Crabbe Hole</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 450 272 223</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10027716-Reviews-The_Crabbe_Hole-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1 Notts Ave 1 Notts Avenue, Sydney, New South Wales 2026 Australia </address>
+				<Point>
+					<coordinates>151.2744143,-33.8952808,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pranzi</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8937 3730</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10069129-Reviews-Pranzi-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>63 Crown St Woolloomooloo, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2160498,-33.8733634,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Small Lemongrass</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9212 1935</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d5298183-Reviews-The_Small_Lemongrass-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>827-837 George Street Shop 7-10, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2031363,-33.8830811,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mr &amp; Mrs Bae</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16865143-Reviews-Mr_Mrs_Bae-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>8 Greenknowe Ave, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2268649,-33.8714559,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Botany Bites</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9666 1799</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4702673-Reviews-Botany_Bites-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1641 Botany Road, Banksmeadow, Sydney, New South Wales 2019 Australia </address>
+				<Point>
+					<coordinates>151.2053485,-33.9549367,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>William Blue Dining</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9492 3290</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15619582-Reviews-William_Blue_Dining-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>107 George Street Sydney The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2085716,-33.8597059,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Le Bake</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>95505566</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8389707-Reviews-Le_Bake-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>197 Enmore Rd, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1714768,-33.8989388,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mas Tinto</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8541 6258</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3741475-d13968122-Reviews-Mas_Tinto-Stanmore_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>43-53 Bridge Road, Stanmore, Sydney, New South Wales 2048 Australia </address>
+				<Point>
+					<coordinates>151.1708054,-33.8908323,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Son of Frank</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15218734-Reviews-Son_of_Frank-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>263 Victoria St Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2210597,-33.8788,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Little Italian Place</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8065 5209</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14065519-Reviews-The_Little_Italian_Place-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Llankelly Place Shop 13, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2244597,-33.8724371,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mi MamaZetas</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 401 666 660</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12880628-Reviews-Mi_MamaZetas-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>30 Rothschild Avenue, Rosebery, Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.20519,-33.9136556,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Golden Chef</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552103-d8374567-Reviews-Golden_Chef-Manly_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>79 Addison Rd, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2889083,-33.8028909,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Shift Eatery</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9281 5053</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15588172-Reviews-Shift_Eatery-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Surry Hills NSW 2010 Shop 4 241 Commonwealth St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.209639,-33.8836573,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Apprentice</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9217 5527</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d2181759-Reviews-The_Apprentice-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>731-695 Harris Street Building E, Level 7, Sydney, New South Wales 2007 Australia </address>
+				<Point>
+					<coordinates>151.2000343,-33.8818504,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bennelong Cured and Cultured</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9240 8000</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15561682-Reviews-Bennelong_Cured_and_Cultured-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney Opera House, Bennelong Point, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2152967,-33.8567844,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>La Panchina</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8065 5195</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14128655-Reviews-La_Panchina-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>496 Bourke St, Surry Hills Entry on Arthur Street, behind Il Baretto, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2154895,-33.8876016,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Chuuka</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9657 9882</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17628692-Reviews-Chuuka-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Jones Bay Wharf SE 62-64 26-32 Pirrama Rd, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1947696,-33.8636875,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Handcraft Specialty Coffee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9550 3701</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d14092289-Reviews-Handcraft_Specialty_Coffee-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>67 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1856745,-33.8925454,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cafe8</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9283 2488</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d5092042-Reviews-Cafe8-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>185 Castlereagh St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2091126,-33.8730137,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Real Peas</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9252 1982</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14246150-Reviews-Real_Peas-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>56 Pitt St Cnr Bridge St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2090943,-33.8637265,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manoosh Pizza</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9558 3006</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10183996-Reviews-Manoosh_Pizza-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>U 1 465 Illawarra Rd, Sydney, New South Wales 2204 Australia </address>
+				<Point>
+					<coordinates>151.149517,-33.91676,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jounieh</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+(61)9247 6790</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16854054-Reviews-Jounieh-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 17 Hickson Road Dawes Point, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2055785,-33.856546,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Quarry St Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9660 7581</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8682192-Reviews-Quarry_St_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>101 Quarry St, Sydney, New South Wales 2007 Australia </address>
+				<Point>
+					<coordinates>151.1974028,-33.8767605,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dining Room Law Society Nsw</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9926 0224</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d7302935-Reviews-Dining_Room_Law_Society_Nsw-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Law Society Building 170 Phillip St Law Society of NSW Dining Room Lev 2, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2114697,-33.8683571,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dirty Red</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9566 1225</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15687564-Reviews-Dirty_Red-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>41 Glebe Point Rd, Sydney, New South Wales 2037 Australia </address>
+				<Point>
+					<coordinates>151.1917357,-33.8834031,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pinocchio Caffe&apos;</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 449 816 818</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8518283-Reviews-Pinocchio_Caffe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>14 Hartill-Law Ave Bardwell Park, Sydney, New South Wales 2207 Australia </address>
+				<Point>
+					<coordinates>151.1252593,-33.9316986,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cherubini Espresso Bar</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d2670753-Reviews-Cherubini_Espresso_Bar-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>985 Boundary Street, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.1911132,-33.7836805,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cafe Belgenny</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9360 0043</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d1118571-Reviews-Cafe_Belgenny-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>197b Campbell St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2163591,-33.8812316,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sandy Ln</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 411 316 617</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12279269-Reviews-Sandy_Ln-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>63 Perry St Lilyfield, Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1554082,-33.8723125,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Porcorosso</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>96982983</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8132513-Reviews-Porcorosso-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>U 4 25-33 Allen St, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.2045551,-33.9024707,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Birdcage</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9660 7134</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15114441-Reviews-The_Birdcage-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>84 Union St Pyrmont, Sydney, New South Wales 2009 Australia </address>
+				<Point>
+					<coordinates>151.1972596,-33.8697253,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vinny&apos;s Pizza &amp; Pasta</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9804 7733</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8505270-Reviews-Vinny_s_Pizza_Pasta-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>4a Corunna Rd, Sydney, New South Wales 2122 Australia </address>
+				<Point>
+					<coordinates>151.0939569,-33.7836737,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The House Dining</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8957 4664</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12946471-Reviews-The_House_Dining-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>357 King Street Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1777591,-33.8986618,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Howard&apos;s Cantina and Cocktails</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9565 1441</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12538117-Reviews-Howard_s_Cantina_and_Cocktails-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1 Swanson St Erskineville, Sydney, New South Wales 2043 Australia </address>
+				<Point>
+					<coordinates>151.1849863,-33.9000531,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Impromptu Dining</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8018 6722</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11800357-Reviews-Impromptu_Dining-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 7 24-30 Springfield Ave Entry via Llankelly Place, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2243,-33.8728718,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Goose Bakery</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15759452-Reviews-Goose_Bakery-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>38 Ross St, Sydney, New South Wales 2037 Australia </address>
+				<Point>
+					<coordinates>151.1824482,-33.8826769,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Hearth &amp; Soul</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 403 920 962</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d15655863-Reviews-Hearth_Soul-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>528-528a King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1794745,-33.9025414,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mother Yen</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 452 628 886</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d13530060-Reviews-Mother_Yen-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>587 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1805755,-33.9055011,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Black Poison</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 406 764 766</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3720782-d12821864-Reviews-Black_Poison-Five_Dock_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>96 Queens Rd, Five Dock, Sydney, New South Wales 2046 Australia </address>
+				<Point>
+					<coordinates>151.1218194,-33.869299,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pain De Sucre</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9571 8100</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10593280-Reviews-Pain_De_Sucre-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>198 St Johns Rd, Sydney, New South Wales 2037 Australia </address>
+				<Point>
+					<coordinates>151.1834742,-33.8833391,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sandoitchi Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 491 092 958</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14130392-Reviews-Sandoitchi_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>113 - 115 Oxford St Shop 3, Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2149099,-33.8793762,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mammas Woodfire Pizza</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>6123310313</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12094892-Reviews-Mammas_Woodfire_Pizza-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>13 Kirketon Road, Darlinghurst Shop 2, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2213434,-33.8756583,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Toki</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 430 574 888</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15757102-Reviews-Toki-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>63 Crown St Woolloomooloo, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2160498,-33.8733634,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gelatissimo</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9664 1511</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g261609-d12667186-Reviews-Gelatissimo-Coogee_Randwick_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>258 Coogee Bay Rd, Coogee, Randwick, New South Wales 2034 Australia </address>
+				<Point>
+					<coordinates>151.2561831,-33.9205772,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The End of King</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8021 3486</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12495985-Reviews-The_End_of_King-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>609-611 King Street Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1808847,-33.9062885,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>212 BLU</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9516 0115</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d13340050-Reviews-212_BLU-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>212 Australia St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1784898,-33.8963038,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Lixie Chocolaterie</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8964 8899</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d9770698-Reviews-Lixie_Chocolaterie-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>275 Crown St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2146244,-33.880466,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Saint Lucifer</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14810090-Reviews-Saint_Lucifer-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>4 Crinan St Hurlstone Park, Sydney, New South Wales 2193 Australia </address>
+				<Point>
+					<coordinates>151.1318982,-33.9099973,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Crimson Nepalese and Indian Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>6196984443</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11797032-Reviews-Crimson_Nepalese_and_Indian_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>567 Crown St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2127096,-33.8909523,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Tinhorn</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 425 470 258</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13417367-Reviews-The_Tinhorn-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>9a Gleeson Ave Sydenham, Sydney, New South Wales 2044 Australia </address>
+				<Point>
+					<coordinates>151.1664412,-33.9156097,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Azuki</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8542 9317</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3675710-d15970713-Reviews-Azuki-Enmore_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 3 63-71 Enmore Rd, Enmore, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1755542,-33.8984503,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Rio</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 455 551 185</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g2686215-d13840489-Reviews-The_Rio-Summer_Hill_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>126 Smith st Summer Hill, Summer Hill, Sydney, New South Wales 2130 Australia </address>
+				<Point>
+					<coordinates>151.138089,-33.89209,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Good Times Artisan Ice Cream</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12542624-Reviews-Good_Times_Artisan_Ice_Cream-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>87B Macleay St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2250252,-33.8710599,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jamie house Thai</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9572 7787</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10496353-Reviews-Jamie_house_Thai-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2092955,-33.8688197,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mapo Newtown</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 434 029 562</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d16856896-Reviews-Mapo_Newtown-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>123 King street, Newtown, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1839392,-33.8930149,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rocketboy Pizza Potts Point</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>6193577727</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10005231-Reviews-Rocketboy_Pizza_Potts_Point-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Potts Point NSW 2011 Shop 2 165 Victoria St Shop 2, Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2224801,-33.8729815,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Normcore coffee roasters</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12968059-Reviews-Normcore_coffee_roasters-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>209 Castlereagh St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2087844,-33.8747822,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Myu Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9261 3474</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14989010-Reviews-Myu_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Maestri Towers 2 Shop 112 G 73 Bathurst St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2045493,-33.8743726,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Handpicked Cellar Door</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15514924-Reviews-Handpicked_Cellar_Door-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>50 Kensington St Chippendale, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.2020581,-33.8856369,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The House specialty coffee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8957 4664</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4792017-Reviews-The_House_specialty_coffee-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>9 Knox St Suit 9, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.0838701,-33.9093596,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Say Cheez</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9438 5353</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10724825-Reviews-Say_Cheez-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1286-288 Willoughby Road Naremburn, Sydney, New South Wales 2065 Australia </address>
+				<Point>
+					<coordinates>151.2008383,-33.8174726,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Doma Potts Point</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9361 0615</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d9758242-Reviews-Doma_Potts_Point-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>33 Bayswater Rd, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2237683,-33.8753853,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Bund</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9241 6558</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17836878-Reviews-The_Bund-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 16A Hickson Rd, Walsh Bay, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.205487,-33.856484,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bellucci Cucina</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9252 5325</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15276312-Reviews-Bellucci_Cucina-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Australia Square 264-278 George St Shop Podium 1, Upper Plaza Australia Square, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2078882,-33.8651294,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Suishin Surry Hills</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8021 8860</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15009694-Reviews-Suishin_Surry_Hills-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>61 Fitzroy St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2159929,-33.8854483,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Konakara</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9360 6753</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12905053-Reviews-Konakara-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>96 Fitzroy St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2169436,-33.8855045,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Toastettes</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3741475-d15760255-Reviews-Toastettes-Stanmore_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>122, A34,, Stanmore, Sydney, New South Wales 2048 Australia </address>
+				<Point>
+					<coordinates>151.1664497,-33.8978797,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Jeremy &amp; Sons</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13482339-Reviews-Jeremy_Sons-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 3 40 Bayswater Rd Rushcutters Bay, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.224821,-33.8749782,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>MoshPit Small Rock’N’Roll Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 418 207 613</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12564060-Reviews-MoshPit_Small_Rock_N_Roll_Bar-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>642a King St Erskineville, Sydney, New South Wales 2043 Australia </address>
+				<Point>
+					<coordinates>151.1811163,-33.9054732,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ventotto</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 438 669 811</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13167666-Reviews-Ventotto-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>510 Elizabeth St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2082051,-33.8896872,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Nosh Cafe &amp; Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9283 0506</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17479049-Reviews-Nosh_Cafe_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>814680 George St World Square Shopping Centre, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2068788,-33.8771813,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Zola Sydney</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 498 178 768</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17399401-Reviews-Zola_Sydney-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>475 Crown St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2132436,-33.8879542,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>80 Bay</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>92814215</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15105756-Reviews-80_Bay-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>80 Bay Street, Ultimo, Sydney, New South Wales 2007 Australia </address>
+				<Point>
+					<coordinates>151.1952066,-33.8833596,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Happy Chef</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9550 3423</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d14202196-Reviews-Happy_Chef-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>262-266 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1811736,-33.8960633,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Patisserie Petunia Bakery and Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 431 598 142</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14638811-Reviews-Patisserie_Petunia_Bakery_and_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>579 King Street Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1804219,-33.905125,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Adora Handmade Chocolates</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9232 6601</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15032553-Reviews-Adora_Handmade_Chocolates-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>2A Bligh St Shop P9 Wentworth Connection, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2108143,-33.8656618,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Sunrise Asian</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9332 2844</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8732551-Reviews-Sunrise_Asian-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>21 Elizabeth Bay Rd Shop 1, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2271381,-33.8728843,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pier One Seafoods</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9241 2217</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d756813-Reviews-Pier_One_Seafoods-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Top Level, Pier One, Hickson Road, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.208179,-33.854064,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Capanos Pizza</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d787641-Reviews-Capanos_Pizza-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Botany Road, Sydney, New South Wales 2019 Australia </address>
+				<Point>
+					<coordinates>151.2231205,-33.9648472,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Fion Wine And Small Plates</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 414 547 127</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g815420-d17537518-Reviews-Fion_Wine_And_Small_Plates-Leichhardt_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>134 Marion St, Leichhardt, Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1504923,-33.8844026,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Giant Bean Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9568 5446</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g1754380-d13273685-Reviews-The_Giant_Bean_Cafe-Marrickville_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>314 Victoria Rd, Marrickville, Sydney, New South Wales 2204 Australia </address>
+				<Point>
+					<coordinates>151.1605473,-33.9120702,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Slims Rooftop</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8377 3650</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16707389-Reviews-Slims_Rooftop-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>47-49 William St Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2145935,-33.8742458,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Great Taste Of Greece</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9547 3860</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13447867-Reviews-The_Great_Taste_Of_Greece-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>57 Park Rd Kogarah Bay, Sydney, New South Wales 2217 Australia </address>
+				<Point>
+					<coordinates>151.122719,-33.978815,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Terra Cotta Roasters</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 404 325 133</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17585564-Reviews-Terra_Cotta_Roasters-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 1 74-80 Ivy St Darlington, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.1957011,-33.8893696,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Manly Charcoal Chicken</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552103-d13285826-Reviews-Manly_Charcoal_Chicken-Manly_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>36 Belgrave St, Manly, New South Wales 2095 Australia </address>
+				<Point>
+					<coordinates>151.2854189,-33.7959956,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Meat and Grill Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 434 491 235</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17625469-Reviews-Meat_and_Grill_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>59 Fitzroy St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2159474,-33.8854367,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pho Viet Long</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 423 198 857</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13337162-Reviews-Pho_Viet_Long-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 208 L 2 25 Dixon St Eating World Food Court, Harbour Plaza, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.203557,-33.877751,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Treetop Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8861 5726</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15656205-Reviews-Treetop_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 158 O&apos;Dea Avenue, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.2135766,-33.9038282,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kabuli</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9008 0875</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552094-d12931036-Reviews-Kabuli-Drummoyne_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>196a Lyons Rd, Drummoyne, Sydney, New South Wales 2047 Australia </address>
+				<Point>
+					<coordinates>151.1459065,-33.8565158,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bon Bistro, Vietnamese Cuisine</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8541 8511</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10441975-Reviews-Bon_Bistro_Vietnamese_Cuisine-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>155 Broadway, Ultimo NSW 2007, Sydney, New South Wales 2007 Australia </address>
+				<Point>
+					<coordinates>151.1972098,-33.8841123,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Markt</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8964 9866</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10597099-Reviews-Markt-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 52 Martin Pl, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2110069,-33.8672091,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Livelo</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9090 2120</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13802635-Reviews-Livelo-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>263 Clarence St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2054019,-33.8719951,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Brudo&apos;s Coffee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 422 268 431</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12827397-Reviews-Brudo_s_Coffee-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>10 Circular Quay West Rear Courtyard opposite the overseas passenger terminal, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2100441,-33.8585416,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wholefoods Dept</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9358 4484</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10555036-Reviews-Wholefoods_Dept-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>15 Orwell St Just a few minutes walk from Kings Cross, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.223463,-33.8718026,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Freepour Espresso</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9560 0773</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g1754380-d10804921-Reviews-Freepour_Espresso-Marrickville_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>U 3 276-278 Marrickville Rd, Marrickville, Sydney, New South Wales 2204 Australia </address>
+				<Point>
+					<coordinates>151.156874,-33.911027,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Proteini</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 413 495 784</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12097287-Reviews-Proteini-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>256 Crown St, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2155768,-33.8789137,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bar Bellacinno</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 400 332 773</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12355277-Reviews-Bar_Bellacinno-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Bligh House 4 - 6 Bligh St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2105186,-33.8657493,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Co Ba Quan</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 7901 0393</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14135456-Reviews-Co_Ba_Quan-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>377 Pitt St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2076829,-33.8761816,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Piccolo Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9368 1356</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4792428-Reviews-Piccolo_Bar-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>6 Roslyn St, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2250013,-33.8738897,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Frankie’s Beans</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 426 863 972</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15607125-Reviews-Frankie_s_Beans-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1 Kings Cross Rd Shop 3, Darlinghurst, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2229031,-33.8760048,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Banh Mese</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8068 1901</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12423375-Reviews-Banh_Mese-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>130 Liverpool St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2083626,-33.8765766,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Trail</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 426 579 137</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g13073792-d12863778-Reviews-The_Trail-Vaucluse_Woollahra_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>34 New South Head Rd, Vaucluse, Sydney, New South Wales 2030 Australia </address>
+				<Point>
+					<coordinates>151.2776682,-33.8594157,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Family Brasserie</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>87896300</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3720782-d12940842-Reviews-The_Family_Brasserie-Five_Dock_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Balmain Tigers, Corner Barnstaple Road and Ingham Avenue, Five Dock, Sydney, New South Wales 2046 Australia </address>
+				<Point>
+					<coordinates>151.1095143,-33.8528909,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Baked by Dora</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>95589647</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12876965-Reviews-Baked_by_Dora-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>20 Crinan St Hurlstone Park, Sydney, New South Wales 2193 Australia </address>
+				<Point>
+					<coordinates>151.1315471,-33.9096935,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Top Choice</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9233 8882</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d947432-Reviews-Top_Choice-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>401-403 Sussex St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.204388,-33.87825,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Queens Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9264 3883</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d1570751-Reviews-Queens_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Queen Victoria Building 455 George St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2067078,-33.871722,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>One Day One Life Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 401 153 212</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14172648-Reviews-One_Day_One_Life_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>27 McEvoy St Waterloo, Sydney, New South Wales 2017 Australia </address>
+				<Point>
+					<coordinates>151.2068751,-33.9001942,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rangoli Festival of Food</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9279 3741</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17758038-Reviews-Rangoli_Festival_of_Food-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>47 York St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2056453,-33.8668609,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>La Herradura</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9281 0460</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13234864-Reviews-La_Herradura-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>6 Shepherd St Grafton Ln, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.1962682,-33.884842,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bogota Coffee Roastery Eastlakes</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9667 3885</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10713063-Reviews-Bogota_Coffee_Roastery_Eastlakes-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>94 Maloney Street Eastlakes, Sydney, New South Wales 2018 Australia </address>
+				<Point>
+					<coordinates>151.2056979,-33.9306668,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Crystal Lake Chinese Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9317 5247</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13543299-Reviews-Crystal_Lake_Chinese_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>23 Evans Avenue Eastlakes Shopping Centre, Sydney, New South Wales 2018 Australia </address>
+				<Point>
+					<coordinates>151.2116376,-33.9251658,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Martha’s Healthy Eatery</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9279 1122</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12998597-Reviews-Martha_s_Healthy_Eatery-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>35-37 King St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2043273,-33.8688641,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>KidsShack Playhouse &amp; Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8060 6296</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12580970-Reviews-KidsShack_Playhouse_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>283 Homer St, Earlwood, Sydney, New South Wales 2206 Australia </address>
+				<Point>
+					<coordinates>151.1275627,-33.9263664,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gino &amp; Mary Continental Deli</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9560 7546</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3834917-d5812109-Reviews-Gino_Mary_Continental_Deli-Dulwich_Hill_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>560 Marrickville Rd, Dulwich Hill, Sydney, New South Wales 2203 Australia </address>
+				<Point>
+					<coordinates>151.1426067,-33.90389,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Yatai Japanese &amp; Korean Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9808 4596</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8787566-Reviews-Yatai_Japanese_Korean_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1-55 West Pde Shop 83A, West Ryde, Sydney, New South Wales 2114 Australia </address>
+				<Point>
+					<coordinates>151.0895295,-33.8074717,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>PiscoSour Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8399 3351</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13187482-Reviews-PiscoSour_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>15 Meagher St Chippendale, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.1997457,-33.8876371,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wild Flour</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9318 2038</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15201735-Reviews-Wild_Flour-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>156 Abercrombie St Redfern, Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.1984994,-33.8893069,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>At The Loading Dock</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 457 913 534</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g815420-d8766306-Reviews-At_The_Loading_Dock-Leichhardt_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>67 John St, Leichhardt, Sydney, New South Wales 2040 Australia </address>
+				<Point>
+					<coordinates>151.1664922,-33.8805506,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kameya</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15613309-Reviews-Kameya-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>7 Cambridge St The Rocks, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2072601,-33.8593438,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Danny&apos;s</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>9365-4099</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g947961-d1033142-Reviews-Danny_s-Bondi_Greater_Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Queen Elizabeth Dr, Bondi Pavillion, Bondi, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2769095,-33.8898552,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Meadow</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8399 1198</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4316751-Reviews-Meadow-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Prince Alfred Park Pool 105 Chalmers Street, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2061324,-33.8873686,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Shenkin Glebe</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15523181-Reviews-Shenkin_Glebe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>23 Glebe Point Rd Glebe, Sydney, New South Wales 2037 Australia </address>
+				<Point>
+					<coordinates>151.1924574,-33.883872,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cafe Nowa</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 7901 1966</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552111-d13163272-Reviews-Cafe_Nowa-Petersham_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>109 Crystal St, Petersham, Sydney, New South Wales 2049 Australia </address>
+				<Point>
+					<coordinates>151.1573199,-33.895131,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Silver Eye Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8277 8277</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8747932-Reviews-Silver_Eye_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>1 Kensington St The Old Clare Hotel, Chippendale, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.201401,-33.884454,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Vegie House</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9299 0419</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d6423655-Reviews-Vegie_House-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>29 King St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2040253,-33.8688699,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Dulce Luna Viennoiserie</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 1300 133 670</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4114912-Reviews-Dulce_Luna_Viennoiserie-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>66 King St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2062796,-33.8685003,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Industrial Lunchbox</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 488 123 864</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g1165139-d12416739-Reviews-Industrial_Lunchbox-St_Peters_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>U 7A 1-7 Unwins Bridge Rd Opposite the Town  AND  Country Pub, St Peters, Sydney, New South Wales 2044 Australia </address>
+				<Point>
+					<coordinates>151.1744931,-33.9100582,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Daily Eats</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9332 4402</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14113941-Reviews-Daily_Eats-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>14425 Bourke Street Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2157731,-33.885118,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ichibang</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9698 2969</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13442670-Reviews-Ichibang-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>616-618 Crown St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2133367,-33.890226,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>cityandboat</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8065 1077</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11912833-Reviews-Cityandboat-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Falcone House SE 1 Lg 139 York St Shop 1, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2062087,-33.8722277,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Thai Street Food</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d14964557-Reviews-Thai_Street_Food-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>57A Fitzroy St Surry Hills, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2159081,-33.8854192,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Khamsa Cafe Newtown</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 481 451 791</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g17418301-d17815187-Reviews-Khamsa_Cafe_Newtown-Erskineville_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 3 612-622 King St, Erskineville, Sydney, New South Wales 2043 Australia </address>
+				<Point>
+					<coordinates>151.1806955,-33.9047027,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Copper Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9519 4286</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g1165139-d13220778-Reviews-Copper_Cafe-St_Peters_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>29 May St, St Peters, Sydney, New South Wales 2044 Australia </address>
+				<Point>
+					<coordinates>151.1797254,-33.9087714,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kosmos Espresso Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8021 2951</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d5979784-Reviews-Kosmos_Espresso_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>250 Pitt St Shop 7, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2084128,-33.8725978,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pizzamaster</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d952055-Reviews-Pizzamaster-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>8 Moore Ave, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.1482816,-33.7770011,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>San Antonio Sourdough</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 413 630 430</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552083-d14772092-Reviews-San_Antonio_Sourdough-Balmain_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>349 Darling St, Balmain, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.1785771,-33.8563833,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Miss Browns Coffee House</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9233 1402</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d948812-Reviews-Miss_Browns_Coffee_House-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Margaret Street, Centrepoint, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2045525,-33.8654638,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Bab Korean Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9304 0119</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15594976-Reviews-The_Bab_Korean_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>61-79 Quay St, Haymarket Shop 22, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2025955,-33.8812571,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Geisha Haus</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8065 1812</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8261913-Reviews-Geisha_Haus-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>SE 1 5 Roslyn St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.224575,-33.8738611,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Spark Espresso at the old bakery</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 414 444 195</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g3741475-d10743827-Reviews-Spark_Espresso_at_the_old_bakery-Stanmore_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>292-95 Percival Road, Stanmore, Sydney, New South Wales 2048 Australia </address>
+				<Point>
+					<coordinates>151.1647884,-33.8929166,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bayswater Kitchenette</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17670349-Reviews-Bayswater_Kitchenette-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 1 51 Bayswater Rd Rushcutters Bay, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2246782,-33.8753767,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Courtyard Restaurant and Bar</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>9563 6289</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d7262440-Reviews-Courtyard_Restaurant_and_Bar-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Holme Building, Science Rd, University of Sydney Ground Floor, Holme Building, Sydney, New South Wales 2006 Australia </address>
+				<Point>
+					<coordinates>151.1873177,-33.8851468,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Kings Lane Sandwiches</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9360 8007</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4792751-Reviews-Kings_Lane_Sandwiches-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>28 Kings Lane Shop 1, Sydney, New South Wales 2010 Australia </address>
+				<Point>
+					<coordinates>151.2171318,-33.8778472,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>D&apos;Vine Licensed Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 433 317 241</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13505726-Reviews-D_Vine_Licensed_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>U 7 1 Ralph St, Sydney, New South Wales 2015 Australia </address>
+				<Point>
+					<coordinates>151.1997543,-33.9145781,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Rag Land</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d3502072-Reviews-The_Rag_Land-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>129 Raglan Street Redfern, Sydney, New South Wales 2016 Australia </address>
+				<Point>
+					<coordinates>151.1996124,-33.8965154,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Poppy&apos;s</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9810 7931</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552083-d7595617-Reviews-Poppy_s-Balmain_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>456 Darling St, Balmain, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.1728025,-33.8569141,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>18 Grams</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>6195864423</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17558866-Reviews-18_Grams-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>152 Bunnerong Rd, Eastgardens, Sydney, New South Wales 2036 Australia </address>
+				<Point>
+					<coordinates>151.2243293,-33.9448257,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Alba Salentinian Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 452 564 625</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g8572746-d18083349-Reviews-Alba_Salentinian_Restaurant-Newtown_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>304-308 King St, Newtown, Sydney, New South Wales 2042 Australia </address>
+				<Point>
+					<coordinates>151.1796321,-33.8969847,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Fenwick</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9159 4700</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g552083-d17827915-Reviews-The_Fenwick-Balmain_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>2-8 Westin st, East Balmain, Balmain, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.1956937,-33.8573489,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pasta Bros</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d2436017-Reviews-Pasta_Bros-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>80 Devonshire Street Surry Hills, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2078492,-33.8860149,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>The Little Queen Cafe</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 420 814 540</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4792173-Reviews-The_Little_Queen_Cafe-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>28-30 Queen St, Sydney, New South Wales 2008 Australia </address>
+				<Point>
+					<coordinates>151.2009924,-33.8868358,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Hills Bros</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8385 2556</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17388338-Reviews-Hills_Bros-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>5 Martin Pl Enter through Martin Place or Rowe Street, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2079574,-33.8675167,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Gelato Messina Tramsheds</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8574 0179</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16662608-Reviews-Gelato_Messina_Tramsheds-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Tramshed Harold Park Shop 3 1 Dalgal Way Forest Lodge, Sydney, New South Wales 2037 Australia </address>
+				<Point>
+					<coordinates>151.178228,-33.876309,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Boon Chocolates</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d3656607-Reviews-Boon_Chocolates-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>251 Victoria St, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.2212068,-33.8785212,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Yummy Thai Food</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9211 1147</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d4791457-Reviews-Yummy_Thai_Food-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>401-403 Sussex Centre Sussex St Chinatown, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2046275,-33.8782421,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Santorini Pizza and Ribs</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d11938275-Reviews-Santorini_Pizza_and_Ribs-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>305 Princes Hwy Shop 1, Carlton, Sydney, New South Wales 2218 Australia </address>
+				<Point>
+					<coordinates>151.1255309,-33.9760237,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Ipoh Town</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d15028245-Reviews-Ipoh_Town-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>200 Barangaroo Ave The Canteen, Tower 2, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2017263,-33.8645482,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Otoro</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9560 7778</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g1754380-d10787869-Reviews-Otoro-Marrickville_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>276-278, Marrickville, Sydney, New South Wales Australia </address>
+				<Point>
+					<coordinates>151.1568534,-33.9111048,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Rockpool - 1989</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9252 1888</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d13448239-Reviews-Rockpool_1989-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>11 Bridge St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2080785,-33.8638433,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Bhojan Nepalese &amp; Indian Cuisines</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8542 8171</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d10460948-Reviews-Bhojan_Nepalese_Indian_Cuisines-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>93 Glebe Point Rd Glebe, Sydney, New South Wales 2037 Australia </address>
+				<Point>
+					<coordinates>151.1903244,-33.8823645,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>La Hacienda Peruvian Restaurant</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8077 8069</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16812715-Reviews-La_Hacienda_Peruvian_Restaurant-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>210298 Sussex Street, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2040376,-33.8722788,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cafe Crisp</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 402 873 144</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8018326-Reviews-Cafe_Crisp-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>309 Kent St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2039973,-33.8673475,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Trattoria Sotto Casa</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9713 7444</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16920023-Reviews-Trattoria_Sotto_Casa-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 3B 45 Blackwall Point Road, Sydney, New South Wales 2046 Australia </address>
+				<Point>
+					<coordinates>151.1412982,-33.847699,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Republic Sandwiches and Salads</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8385 7110</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12257736-Reviews-Republic_Sandwiches_and_Salads-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>128 Kings Lane, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2170159,-33.8779625,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Cafe Harris</name>				<ExtendedData>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d12030803-Reviews-Cafe_Harris-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>456 Harris St, Sydney, New South Wales 2007 Australia </address>
+				<Point>
+					<coordinates>151.1989017,-33.8773368,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Mint Bar Sydney Olympic Park</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>6189372823</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d16725296-Reviews-Mint_Bar_Sydney_Olympic_Park-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>Shop 2 1 Brushbox St, Sydney, New South Wales 2127 Australia </address>
+				<Point>
+					<coordinates>151.0741769,-33.8486396,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Wonn Dee</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8387 3097</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8845998-Reviews-Wonn_Dee-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>475 Darling St, Sydney, New South Wales 2041 Australia </address>
+				<Point>
+					<coordinates>151.172945,-33.8562514,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Antonio&apos;s Trattoria</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9356 8307</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17758076-Reviews-Antonio_s_Trattoria-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>19 - 21 Elizabeth Bay Rd Shop 1, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.227094,-33.8729405,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Knickknack</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 9268 0725</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d8261192-Reviews-Knickknack-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>187 Liverpool St, Sydney, New South Wales 2000 Australia </address>
+				<Point>
+					<coordinates>151.2115025,-33.8770938,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+				<name>Pame Ellada Traditional Souvlaki</name>				<ExtendedData>
+												<Data name='phone'>
+								<value>+61 2 8018 5154</value>
+							</Data>
+												<Data name='webUrl'>
+								<value>https://www.tripadvisor.com/Restaurant_Review-g255060-d17751592-Reviews-Pame_Ellada_Traditional_Souvlaki-Sydney_New_South_Wales.html</value>
+							</Data>
+									</ExtendedData>
+								<address>3 1 -3 Roslyn St Potts Point, Sydney, New South Wales 2011 Australia </address>
+				<Point>
+					<coordinates>151.2242384,-33.8738053,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
